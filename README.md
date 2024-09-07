@@ -33,7 +33,12 @@ Este proyecto es una **calculadora básica** desarrollada en Python que permite 
 Ejecuta el script principal para iniciar la calculadora:
 
 ```bash
-python mainCalculadora.py
+python mainCalculadora.py 
+```
+o
+
+```bash
+py mainCalculadora.py 
 ```
 
 Sigue las instrucciones en pantalla para seleccionar la operación y proporcionar los números con los que deseas trabajar.
