@@ -200,7 +200,7 @@ La división es: 0.8
 
 ## Autor
 
-- **Camila Alvarado** - [CamiNefilim](https://github.com/CamiNefilim)
+- **Camila Alvarado Astroza** - [CamiNefilim](https://github.com/CamiNefilim)
 
 ## Agradecimientos
 
