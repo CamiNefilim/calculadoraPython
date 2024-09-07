@@ -1,9 +1,9 @@
-#Importar funciones de calculadora
+#Importar modulos de calculadora
 from calculadora import sumar,restar,multiplicar,dividir
+#Importa modulo de tiempo
 import time
 
-while True:
-    time.sleep(2)
+def menu():
     print("Calculadora")
     print("""
         1. Sumar
@@ -12,6 +12,14 @@ while True:
         4. Dividir
         5. Salir
         """)
+
+while True:
+    
+    #Espera unos segundos para desplegar el menú
+    time.sleep(2)    
+    
+    #Despliega el menú
+    menu()
     
     # Captura opción seleccionada
     opcion = input("Ingresa el número de la acción que deseas ejecutar: ")
@@ -77,3 +85,5 @@ while True:
         case "5":
             print("Muchas gracias por usar mi calculadora.")
             break
+        case _:
+            print("No existe la opción ingresada")
