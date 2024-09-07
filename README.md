@@ -202,6 +202,3 @@ La división es: 0.8
 - A los colaboradores que ayudan a mejorar este proyecto.
 - A la comunidad de Python por su extensa documentación y apoyo.
 
----
-
-Puedes personalizar este README según tus necesidades, agregando o eliminando secciones relevantes para tu proyecto. Asegúrate de reemplazar los marcadores de posición (como `tu_usuario` y `nombre_del_repositorio`) con la información correspondiente a tu proyecto.
