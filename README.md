@@ -25,7 +25,7 @@ Este proyecto es una **calculadora básica** desarrollada en Python que permite 
 2. **Acceder al directorio del proyecto**
 
    ```bash
-   cd nombre_del_repositorio
+   cd calculadoraPython
    ```
 
 ## Uso
