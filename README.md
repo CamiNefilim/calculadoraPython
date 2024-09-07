@@ -55,7 +55,7 @@ Sigue las instrucciones en pantalla para seleccionar la operación y proporciona
 
 ## Ejemplo de Código
 
-**calculadora.py**
+**mainCalculadora.py**
 
 ```python
 #Importar modulos de calculadora
