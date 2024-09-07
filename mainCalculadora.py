@@ -1,24 +1,24 @@
-#Importar modulos de calculadora
+# Importar modulos de calculadora
 from calculadora import sumar,restar,multiplicar,dividir
-#Importa modulo de tiempo
+# Importa modulo de tiempo
 import time
 
 def menu():
     print("Calculadora")
     print("""
-        1. Sumar
-        2. Restar
-        3. Multiplicar
-        4. Dividir
-        5. Salir
-        """)
+1. Sumar
+2. Restar
+3. Multiplicar
+4. Dividir
+5. Salir
+    """)
 
 while True:
     
-    #Espera unos segundos para desplegar el menú
+    # Espera unos segundos para desplegar el menú
     time.sleep(2)    
     
-    #Despliega el menú
+    # Despliega el menú
     menu()
     
     # Captura opción seleccionada

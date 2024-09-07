@@ -66,12 +66,12 @@ import time
 def menu():
     print("Calculadora")
     print("""
-        1. Sumar
-        2. Restar
-        3. Multiplicar
-        4. Dividir
-        5. Salir
-        """)
+    1. Sumar
+    2. Restar
+    3. Multiplicar
+    4. Dividir
+    5. Salir
+    """)
 
 while True:
     
@@ -156,11 +156,11 @@ while True:
 ```
 Calculadora
 
-        1. Sumar
-        2. Restar
-        3. Multiplicar
-        4. Dividir
-        5. Salir
+1. Sumar
+2. Restar
+3. Multiplicar
+4. Dividir
+5. Salir
 
 Ingresa el número de la acción que deseas ejecutar: 1
 Ingresa el primer número: 2
@@ -173,11 +173,11 @@ La suma es: 8.0
 ```
 Calculadora
 
-        1. Sumar
-        2. Restar
-        3. Multiplicar
-        4. Dividir
-        5. Salir
+1. Sumar
+2. Restar
+3. Multiplicar
+4. Dividir
+5. Salir
 
 Ingresa el número de la acción que deseas ejecutar: 4
 Ingresa el primer número: 6
