@@ -19,7 +19,7 @@ Este proyecto es una **calculadora básica** desarrollada en Python que permite 
 1. **Clonar el repositorio**
 
    ```bash
-   git clone [https://github.com/CamiNefilim/calculadoraPython.git](https://github.com/CamiNefilim/calculadoraPython.git)
+   git clone https://github.com/CamiNefilim/calculadoraPython.git
    ```
 
 2. **Acceder al directorio del proyecto**
